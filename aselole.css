@@ -1,3 +1,9 @@
+body{
+	background-image: url(gambar/tes.png);
+	background-repeat: repeat-x;
+	background-position: top right;
+}
+
 h1{
 	color: antiquewhite;
 	text-align: center;
@@ -12,6 +18,7 @@ ul{
 table{
 	color: whitesmoke;
 	text-align: center;
+	text-decoration: initial;
 
 }
 
